@@ -3,12 +3,17 @@
 Modules that you require in your
 ----------------------------
 
-pyttsx3
-datetime
-speech_recognition as sr
-wikipedia as wi
-webbrowser as wb
-os
+1) pyttsx3
+
+2) datetime
+
+3) speech_recognition
+
+4) wikipedia 
+
+5) webbrowser 
+
+6)os
 
 ----------------------------
 IDE used --> Pychharm
