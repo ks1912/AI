@@ -13,7 +13,7 @@ Modules that you require in your
 
 5) webbrowser 
 
-6)os
+6) os
 
 ----------------------------
 IDE used --> Pychharm
