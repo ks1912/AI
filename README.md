@@ -1,9 +1,15 @@
 # AI - WITH PYTHON
---------------------
+-----------------------------
+Modules that you require in your
+----------------------------
 
-import pyttsx3
-import datetime
-import speech_recognition as sr
-import wikipedia as wi
-import webbrowser as wb
-import os
+pyttsx3
+datetime
+speech_recognition as sr
+wikipedia as wi
+webbrowser as wb
+os
+
+----------------------------
+IDE used --> Pychharm
+---------------------------
